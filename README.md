@@ -8,6 +8,7 @@ I am currently a junior in high school and am constantly learning new programmin
   <a href="https://stats-xi-two.vercel.app/api?username=kapoorkrish&hide_rank=true&theme=dark&show_icons=true">
     <img height=200 src="https://stats-xi-two.vercel.app/api?username=kapoorkrish&hide_rank=true&theme=dark&show_icons=true" />
   </a>
+  <img width="12" />
   <a href="https://stats-xi-two.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=stats&layout=compact&theme=dark">
     <img height=200 src="https://stats-xi-two.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=stats&theme=dark" />
   </a>
@@ -15,10 +16,11 @@ I am currently a junior in high school and am constantly learning new programmin
 
 ## Featured
 <div align="center">
-  <a href="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&repo=Ad-Meliora&theme=dark">
+  <a href="https://github.com/kapoorkrish/Ad-Meliora">
     <img src="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=Ad-Meliora" />
   </a>
-  <a href="https://stats-xi-two.vercel.app/api/pin/?username=OctiLearnTeam&repo=OctiLearn">
+  <img width="12" />
+  <a href="https://github.com/OctiLearnTeam/OctiLearn">
     <img src="https://stats-xi-two.vercel.app/api/pin/?username=OctiLearnTeam&theme=dark&repo=OctiLearn" />
   </a>
 </div>
