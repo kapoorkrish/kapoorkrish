@@ -3,21 +3,25 @@
 ## About Me
 I am currently a junior in high school and am constantly learning new programming languages. I am especially interested in machine learning. Additionally, I am familiar with several Arduino and Raspberry Pi microcontrollers and have experience with iOS development.
 
-<br>
-<a href="https://stats-xi-two.vercel.app/api?username=kapoorkrish&hide_rank=true&theme=dark&show_icons=true">
-  <img height=200 align="center" src="https://stats-xi-two.vercel.app/api?username=kapoorkrish&hide_rank=true&theme=dark&show_icons=true" />
-</a>
-<a href="https://stats-xi-two.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=stats&layout=compact&theme=dark">
-  <img height=200 align="center" src="https://stats-xi-two.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=stats&theme=dark" />
-</a>
+###
+<div align="center">
+  <a href="https://stats-xi-two.vercel.app/api?username=kapoorkrish&hide_rank=true&theme=dark&show_icons=true">
+    <img height=200 src="https://stats-xi-two.vercel.app/api?username=kapoorkrish&hide_rank=true&theme=dark&show_icons=true" />
+  </a>
+  <a href="https://stats-xi-two.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=stats&layout=compact&theme=dark">
+    <img height=200 src="https://stats-xi-two.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=stats&theme=dark" />
+  </a>
+</div>
 
 ## Featured
-<a href="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&repo=Ad-Meliora&theme=dark">
-  <img align="center" src="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&repo=Ad-Meliora&theme=dark" />
-</a>
-<a href="https://stats-xi-two.vercel.app/api/pin/?username=OctiLearnTeam&repo=OctiLearn">
-  <img align="center" src="https://stats-xi-two.vercel.app/api/pin/?username=OctiLearnTeam&repo=OctiLearn&theme=dark" />
-</a>
+<div align="center">
+  <a href="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&repo=Ad-Meliora&theme=dark">
+    <img src="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=Ad-Meliora" />
+  </a>
+  <a href="https://stats-xi-two.vercel.app/api/pin/?username=OctiLearnTeam&repo=OctiLearn">
+    <img src="https://stats-xi-two.vercel.app/api/pin/?username=OctiLearnTeam&theme=dark&repo=OctiLearn" />
+  </a>
+</div>
 
 ##
 <div align="center">
