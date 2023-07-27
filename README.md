@@ -5,24 +5,16 @@ I am currently a junior in high school and am constantly learning new programmin
 
 ###
 <div align="center">
-  <a href="https://stats-xi-two.vercel.app/api?username=kapoorkrish&hide_rank=true&theme=dark&show_icons=true">
-    <img height=200 src="https://stats-xi-two.vercel.app/api?username=kapoorkrish&hide_rank=true&theme=dark&show_icons=true" />
-  </a>
+  <img height=200 src="https://stats-xi-two.vercel.app/api?username=kapoorkrish&hide_rank=true&theme=dark&show_icons=true" />
   <img width="12" />
-  <a href="https://stats-xi-two.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=stats&layout=compact&theme=dark">
-    <img height=200 src="https://stats-xi-two.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=stats&theme=dark" />
-  </a>
+  <img height=200 src="https://stats-xi-two.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=stats&theme=dark" />
 </div>
 
 ## Featured
 <div align="center">
-  <a href="https://github.com/kapoorkrish/Ad-Meliora">
-    <img src="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=Ad-Meliora" />
-  </a>
+  <img src="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=Ad-Meliora" />
   <img width="12" />
-  <a href="https://github.com/OctiLearnTeam/OctiLearn">
-    <img src="https://stats-xi-two.vercel.app/api/pin/?username=OctiLearnTeam&theme=dark&repo=OctiLearn" />
-  </a>
+  <img src="https://stats-xi-two.vercel.app/api/pin/?username=OctiLearnTeam&theme=dark&repo=OctiLearn" />
 </div>
 
 ##
