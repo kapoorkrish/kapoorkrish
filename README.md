@@ -12,9 +12,13 @@ I am currently a junior in high school and am constantly learning new programmin
 
 ## Featured
 <div align="center">
-  <img src="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=Ad-Meliora" />
+  <a href="https://github.com/kapoorkrish/Ad-Meliora">
+    <img src="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=Ad-Meliora" />
+  </a>
   <img width="12" />
-  <img src="https://stats-xi-two.vercel.app/api/pin/?username=OctiLearnTeam&theme=dark&repo=OctiLearn" />
+  <a href="https://github.com/OctiLearnTeam/OctiLearn">
+    <img src="https://stats-xi-two.vercel.app/api/pin/?username=OctiLearnTeam&theme=dark&repo=OctiLearn" />
+  </a>
 </div>
 
 ##
