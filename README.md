@@ -15,12 +15,10 @@ I am currently a junior in high school and am constantly learning new programmin
   <a href="https://github.com/kapoorkrish/Ad-Meliora">
     <img src="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=Ad-Meliora" />
   </a>
-  <!--
   <img width="12" />
-  <a href="https://github.com/OctiLearnProject/OctiLearn">
-    <img src="https://stats-xi-two.vercel.app/api/pin/?username=OctiLearnProject&theme=dark&repo=OctiLearn" />
+  <a href="https://github.com/sqildev/OctiLearn">
+    <img src="https://stats-xi-two.vercel.app/api/pin/?username=sqildev&theme=dark&repo=OctiLearn" />
   </a>
-  -->
 </div>
 
 ##
