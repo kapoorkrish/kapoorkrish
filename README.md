@@ -1,7 +1,7 @@
 ![](hey_there.gif)
 
 ## About Me
-I am currently a junior in high school and am constantly learning new programming languages. I am especially interested in machine learning. Additionally, I am familiar with several Arduino and Raspberry Pi microcontrollers and have experience with iOS development.
+I am currently a senior in high school and am constantly learning new programming languages. I am especially interested in machine learning. Additionally, I am familiar with several Arduino and Raspberry Pi microcontrollers and have experience with iOS development.
 
 ###
 <div align="center">
