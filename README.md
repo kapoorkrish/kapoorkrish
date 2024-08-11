@@ -16,6 +16,10 @@ I am currently a senior in high school and am constantly learning new programmin
     <img src="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=Ad-Meliora" />
   </a>
   <img width="12" />
+  <a href="https://github.com/kapoorkrish/CatchBot">
+    <img src="https://stats-xi-two.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=CatchBot" />
+  </a>
+  <img width="12" />
   <a href="https://github.com/sqildev/OctiLearn">
     <img src="https://stats-xi-two.vercel.app/api/pin/?username=sqildev&theme=dark&repo=OctiLearn" />
   </a>
