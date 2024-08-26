@@ -5,9 +5,9 @@ I am currently a senior in high school and am constantly learning new programmin
 
 ###
 <div align="center">
-  <img height=200 src="https://stats-xi-two.vercel.app/api?username=kapoorkrish&hide_rank=true&theme=dark&show_icons=true" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=kapoorkrish&hide_rank=true&theme=dark&show_icons=true" />
   <img width="12" />
-  <img height=200 src="https://stats-xi-two.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=stats&theme=dark" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=stats&theme=dark" />
 </div>
 
 ## Featured
