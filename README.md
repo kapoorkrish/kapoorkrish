@@ -20,8 +20,8 @@ I am currently a senior in high school and am constantly learning new programmin
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=CatchBot" />
   </a>
   <img width="12" />
-  <a href="https://github.com/sqildev/OctiLearn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sqildev&theme=dark&repo=OctiLearn" />
+  <a href="https://github.com/sqildev/sqil">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sqildev&theme=dark&repo=sqil" />
   </a>
 </div>
 
