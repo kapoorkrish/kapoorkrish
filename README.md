@@ -5,23 +5,23 @@ I am currently a senior in high school and am constantly learning new programmin
 
 ###
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=kapoorkrish&hide_rank=true&theme=dark&show_icons=true" />
+  <img height=300 src="https://krish-github-stats.vercel.app/api?username=kapoorkrish&hide_rank=true&show_icons=true&theme=dark" />
   <img width="12" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=Lab-6-Version-Control&theme=dark" />
+  <img height=300 src="https://krish-github-stats.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=github-readme-stats,sudoku,project-4-milestone-1,Lab-6-Version-Control&theme=dark" />
 </div>
 
 ## Featured
 <div align="center">
   <a href="https://github.com/kapoorkrish/Ad-Meliora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=Ad-Meliora" />
+    <img src="https://krish-github-stats.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=Ad-Meliora" />
   </a>
   <img width="12" />
   <a href="https://github.com/kapoorkrish/CatchBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=CatchBot" />
+    <img src="https://krish-github-stats.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=CatchBot" />
   </a>
   <img width="12" />
   <a href="https://github.com/sqildev/sqil">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sqildev&theme=dark&repo=sqil" />
+    <img src="https://krish-github-stats.vercel.app/api/pin/?username=sqildev&theme=dark&repo=sqil" />
   </a>
 </div>
 
