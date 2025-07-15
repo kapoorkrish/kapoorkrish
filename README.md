@@ -1,7 +1,7 @@
 ![](hey_there.gif)
 
 ## About Me
-I am currently a senior in high school and am constantly learning new programming languages. I am especially interested in machine learning. Additionally, I am familiar with several Arduino and Raspberry Pi microcontrollers and have experience with iOS development.
+Hello! I am an incoming UC Berkeley student studying Electrical Engineering and Computer Science. I have experience with CAD modeling software and 3D printing, and I am familiar with several programming languages, including C, C++, Arduino, Python, Java, JavaScript, and Swift.
 
 ###
 <div align="center">
