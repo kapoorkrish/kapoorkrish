@@ -21,10 +21,6 @@ With experience in embedded systems, CAD & 3D printing, and several programming 
   <a href="https://github.com/kapoorkrish/CatchBot">
     <img src="https://krish-github-stats.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=CatchBot" />
   </a>
-  <img width="12" />
-  <a href="https://github.com/sqildev/sqil">
-    <img src="https://krish-github-stats.vercel.app/api/pin/?username=sqildev&theme=dark&repo=sqil" />
-  </a>
 </div>
 
 ##
