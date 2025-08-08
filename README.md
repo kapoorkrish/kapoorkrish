@@ -1,7 +1,9 @@
 ![](hey_there.gif)
 
 ## About Me
-Hello! I am an incoming UC Berkeley student studying Electrical Engineering and Computer Science. I have experience with CAD modeling software and 3D printing, and I am familiar with several programming languages, including C, C++, Arduino, Python, Java, JavaScript, and Swift.
+I’m a UC Berkeley freshman studying Electrical Engineering and Computer Science, passionate about bringing bold ideas to life. My mission is not only to improve existing systems but to innovate and help shape the future we dream of.
+
+With experience in embedded systems, CAD & 3D printing, and several programming languages (C, C++, Arduino, Python, Java, JavaScript, Swift), I aim to apply my skills toward my interests in space exploration and machine learning, redefining the limits of possibility.
 
 ###
 <div align="center">
