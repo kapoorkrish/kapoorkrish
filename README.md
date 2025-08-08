@@ -8,7 +8,6 @@ With experience in embedded systems, CAD & 3D printing, and several programming 
 ###
 <div align="center">
   <img height=250 src="https://krish-github-stats.vercel.app/api?username=kapoorkrish&hide_rank=true&show_icons=true&theme=dark" />
-  <img width="12" />
   <img height=250 src="https://krish-github-stats.vercel.app/api/top-langs?username=kapoorkrish&exclude_repo=github-readme-stats,sudoku,project-4-milestone-1,Lab-6-Version-Control&theme=dark" />
 </div>
 
