@@ -63,7 +63,7 @@ With experience in embedded systems, CAD & 3D printing, and several programming 
 ###
 
 ## How to Reach Me
-You can reach me at kapoorkrish26@gmail.com!
+You can reach me at krish_kapoor@berkeley.edu!
 <div align="left">
   <a href="https://www.linkedin.com/in/kapoorkrish/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
