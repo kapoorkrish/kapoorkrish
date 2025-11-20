@@ -1,9 +1,7 @@
 ![](hey_there.gif)
 
 ## About Me
-I’m a UC Berkeley freshman studying Electrical Engineering and Computer Science, passionate about bringing bold ideas to life. My mission is not only to improve existing systems but to innovate and help shape the future we dream of.
-
-With experience in embedded systems, CAD & 3D printing, and several programming languages (C, C++, Arduino, Python, Java, JavaScript, Swift), I aim to apply my skills toward my interests in space exploration and machine learning, redefining the limits of possibility.
+I’m a UC Berkeley freshman studying Electrical Engineering and Computer Science, passionate about making bold ideas a reality. Rather than aim for incremental improvement, I strive to innovate and help shape a future we dream of. Feel free to reach out!
 
 ###
 <div align="center">
