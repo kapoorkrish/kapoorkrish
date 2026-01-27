@@ -1,7 +1,7 @@
 ![](hey_there.gif)
 
 ## About Me
-I’m a UC Berkeley freshman studying Electrical Engineering and Computer Science, passionate about making bold ideas a reality. Rather than aim for incremental improvement, I strive to innovate and help shape a future we dream of. In fulfilling this mission, I'm looking to apply my skills toward my interests in space exploration, machine learning, or their intersection. Feel free to reach out!
+I’m a UC Berkeley freshman studying Electrical Engineering and Computer Science, passionate about making bold ideas a reality. Rather than aim for incremental improvement, I strive to innovate and help shape a future we dream of. In fulfilling this mission, I'm looking to apply my skills toward my interests in space exploration, machine learning, or their intersection. Feel free to [reach out](#how-to-reach-me)!
 
 ###
 <div align="center">
@@ -47,8 +47,6 @@ I’m a UC Berkeley freshman studying Electrical Engineering and Computer Scienc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
