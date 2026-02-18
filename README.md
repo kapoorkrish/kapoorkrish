@@ -1,7 +1,7 @@
 ![](hey_there.gif)
 
 ## About Me
-I’m a UC Berkeley freshman studying Electrical Engineering and Computer Science, passionate about making bold ideas a reality. Rather than aim for incremental improvement, I strive to innovate and help shape a future we dream of. In fulfilling this mission, I'm looking to apply my skills toward my interests in space exploration, machine learning, or their intersection. Feel free to [reach out](#how-to-reach-me)!
+I’m a UC Berkeley freshman studying Electrical Engineering and Computer Science. Rather than aim for incremental improvement, I strive to innovate and help shape a future we dream of. In fulfilling this mission, I'm looking to apply my skills toward my interests in space exploration, machine learning, or their intersection. Feel free to [reach out](#how-to-reach-me)!
 
 ###
 <div align="center">
