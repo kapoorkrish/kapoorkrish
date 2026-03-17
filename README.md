@@ -8,10 +8,6 @@ I’m a UC Berkeley freshman studying Electrical Engineering and Computer Scienc
   <a href="https://github.com/kapoorkrish/CatchBot">
     <img src="https://krish-github-stats.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=CatchBot" />
   </a>
-  <img width="12" />
-  <a href="https://github.com/kapoorkrish/Ad-Meliora">
-    <img src="https://krish-github-stats.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=Ad-Meliora" />
-  </a>
 </div>
 
 ##
