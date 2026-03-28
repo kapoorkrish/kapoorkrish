@@ -18,6 +18,9 @@ Feel free to reach out at [krish_kapoor@berkeley.edu](mailto:krish_kapoor@berkel
   <a href="https://github.com/kapoorkrish/CatchBot">
     <img src="https://krish-github-stats.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=CatchBot" />
   </a>
+  <a href="https://github.com/kapoorkrish/Authr">
+    <img src="https://krish-github-stats.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=Authr" />
+  </a>
 </div>
 
 ##
