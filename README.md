@@ -1,7 +1,17 @@
 ![](hey_there.gif)
 
 ## About Me
-I’m a UC Berkeley freshman studying Electrical Engineering and Computer Science. Rather than aim for incremental improvement, I strive to innovate and help shape a future we dream of. In fulfilling this mission, I'm looking to apply my skills toward my interests in space exploration, machine learning, or their intersection. Feel free to [reach out](#how-to-reach-me)!
+Hello! I’m a UC Berkeley freshman studying Electrical Engineering and Computer Science.
+
+The future of humanity lies in full autonomy and the expansion of civilization beyond Earth. My passion is to build this future by developing intelligent autonomous systems. I'm looking to apply my skills toward my interests in machine learning and its applications to space exploration, humanoid robotics, and self-driving technologies.
+
+Feel free to reach out at [krish_kapoor@berkeley.edu](mailto:krish_kapoor@berkeley.edu)!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kapoorkrish/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ## Featured
 <div align="center">
@@ -42,19 +52,3 @@ I’m a UC Berkeley freshman studying Electrical Engineering and Computer Scienc
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
-
-###
-</div>
-
-###
-
-## How to Reach Me
-You can reach me at krish_kapoor@berkeley.edu
-<div align="left">
-  <a href="https://www.linkedin.com/in/kapoorkrish/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
