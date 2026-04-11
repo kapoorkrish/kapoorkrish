@@ -1,7 +1,7 @@
 ![](hey_there.gif)
 
 ## About Me
-Hello! I’m a UC Berkeley freshman studying Electrical Engineering and Computer Science.
+I’m a UC Berkeley freshman studying Electrical Engineering and Computer Science.
 
 The future of humanity lies in full autonomy and the expansion of civilization beyond Earth. My passion is to build this future by developing intelligent autonomous systems. I'm looking to apply my skills toward my interests in machine learning and its applications to space exploration, humanoid robotics, and self-driving technologies.
 
