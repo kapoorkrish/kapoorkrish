@@ -1,5 +1,5 @@
 ### Krish Kapoor · EECS @ UC Berkeley
-[kapoorkrish.me](https://kapoorkrish.me)
+[krishkapoor.me](https://krishkapoor.me)
 
 <br>
 
