@@ -1,19 +1,8 @@
-![](hey_there.gif)
+### Krish Kapoor · EECS @ UC Berkeley
+[kapoorkrish.me](https://kapoorkrish.me)
 
-## About Me
-I’m a UC Berkeley freshman studying Electrical Engineering and Computer Science.
+<br>
 
-The future of humanity lies in full autonomy and the expansion of civilization beyond Earth. My passion is to build this future by developing intelligent autonomous systems. I'm looking to apply my skills toward my interests in machine learning and its applications to space exploration, humanoid robotics, and self-driving technologies.
-
-Feel free to reach out at [krish_kapoor@berkeley.edu](mailto:krish_kapoor@berkeley.edu)!
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kapoorkrish/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-## Featured
 <div align="center">
   <a href="https://github.com/kapoorkrish/CatchBot">
     <img src="https://krish-github-stats.vercel.app/api/pin/?username=kapoorkrish&theme=dark&repo=CatchBot" />
